@@ -1,1 +1,3 @@
-# Desafio-de-Projeto-do-Git-Github
+# Desafio-de-Projeto-do-Git-Github Um pouco sobre Git/GitHub... 
+O Git é um sistema open-source de controle de versao utilizado pela grande maioria dos desenvolvedores atualmente.Com ele podemos   
+Com ele podemos criar todo o codigo do nosso projet e facilmente voltar para qualquer ponto para saber com o codigo esta naquela  data
